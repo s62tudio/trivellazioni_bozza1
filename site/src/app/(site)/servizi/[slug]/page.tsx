@@ -24,6 +24,9 @@ export function generateStaticParams() {
   return services.map((s) => ({ slug: s.slug }));
 }
 
+/** Solo i tre servizi esistenti: ogni altro indirizzo restituisce 404 (necessario per l'esportazione statica). */
+export const dynamicParams = false;
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const s = services.find((x) => x.slug === slug);

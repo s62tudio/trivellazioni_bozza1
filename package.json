@@ -1,11 +1,18 @@
 {
   "name": "trivellazioni-italia",
   "private": true,
-  "description": "Avvia il sito che si trova nella cartella site/",
+  "description": "Sito Trivellazioni Italia: il codice è in site/, il deploy su Cloudflare Workers usa wrangler.jsonc",
   "scripts": {
     "dev": "npm --prefix site run dev",
-    "build": "npm --prefix site run build",
-    "start": "npm --prefix site run start",
+    "build": "npm --prefix site ci && npm --prefix site run build",
+    "preview": "npm --prefix site run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
     "lint": "npm --prefix site run lint"
+  },
+  "engines": {
+    "node": ">=20.9"
+  },
+  "devDependencies": {
+    "wrangler": "^4.159.0"
   }
 }
