@@ -1,0 +1,24 @@
+{
+  "project": "Trivellazioni Italia Srl — sito aziendale",
+  "stack": { "framework": "next@16", "styling": "tailwindcss@4", "motion": "motion", "icons": "lucide-react" },
+  "brand": {
+    "primary": "#059AD5",
+    "neutrals": { "ink": "#141618", "anthracite": "#202326", "iron": "#777C80", "bone": "#F4F4F1" },
+    "earth": { "sand": "#C5B69B" },
+    "strata": ["#EEF1EF", "#DDD2BD", "#C5B69B", "#6F624B", "#3A342C", "#26231F", "#141618"]
+  },
+  "typography": { "display": "Big Shoulders (900, uppercase)", "body": "Inter" },
+  "decisions": [
+    {
+      "date": "2026-11-10",
+      "decision": "Direzione grafica: 95% anteprima F 'Carotaggio' + 5% anteprima E 'Bento'",
+      "details": [
+        "Homepage a strati: scorrendo si scende dalla superficie al nucleo, colori di fondo progressivamente più scuri",
+        "Fotografie a forma di carota di sondaggio (capsule verticali), indice laterale di profondità",
+        "Da E: navbar a pillola fluttuante (desktop con voci visibili) e riquadri arrotondati nel nucleo (certificazioni, galleria, contatti)",
+        "Menu a cassetto solo su mobile/tablet; su desktop navbar completa con sottomenu Servizi"
+      ],
+      "rejected": ["A Editoriale", "B Heavy Duty", "C Cinematica", "D Scheda tecnica", "Prima proposta (Barlow, scuro)"]
+    }
+  ]
+}

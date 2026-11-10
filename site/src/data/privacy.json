@@ -1,0 +1,217 @@
+{
+ "intro": [
+  "Benvenuto, questa è la nostra informativa sulla privacy, costituisce l’ultima versione pubblicata sul Sito www.trivellazionitalia.it (d’ora in avanti, per brevità, il Sito ovvero TRIVELLAZIONI ITALIA). Il presente documento ha lo scopo di fornire agli utenti maggiori dettagli su come proteggiamo le informazioni, su come le raccogliamo, memorizziamo, utilizziamo, e comunichiamo i suoi dati personali, intendendosi per “dati personali” qualsiasi informazione che riguardi persone fisiche identificate o che possano essere identificate anche attraverso altre informazioni ed indipendentemente dal dispositivo e dal canale adoperato.",
+  "Secondo le norme del Regolamento UE n. 2016/679 i trattamenti effettuati da TRIVELLAZIONI ITALIA saranno improntati ai principi di liceità, correttezza, trasparenza, limitazione delle finalità e della conservazione, minimizzazione dei dati, esattezza, integrità e riservatezza.La presente informativa è resa solo per tale Sito e non anche per altri Siti eventualmente consultati dall’utente tramite link, Siti che non sono di proprietà di TRIVELLAZIONI ITALIA, in tale ipotesi, si invita l’utente a leggere attentamente le relative informative."
+ ],
+ "sections": [
+  {
+   "title": "1. Titolare del trattamento",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Il Titolare del trattamento dei dati personali forniti dall’utente attraverso il suindicato sito è TRIVELLAZIONI ITALIA S.r.l. (P.Iva 01431620622 ), con sede legale in Via Cerza di Nauro snc, Campoli MT (BN), Email: info@trivellazionitalia.it, PEC trivellazioni.italia@pec.it"
+    }
+   ]
+  },
+  {
+   "title": "2. Natura dei dati trattati",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "I dati personali trattati da TRIVELLAZIONI ITALIA sono:"
+    },
+    {
+     "type": "li",
+     "text": "indirizzo Email fornito dall’utente;"
+    },
+    {
+     "type": "li",
+     "text": "numero di cellulare (nel caso di inserimento del numero nel form contatti del Sito)"
+    },
+    {
+     "type": "li",
+     "text": "dati anagrafici (nome, cognome o ragione sociale) forniti dall’utente in sede di contatto;"
+    },
+    {
+     "type": "li",
+     "text": "informazioni raccolte tramite i cookie di terze parti adoperati dal sito web (si veda cookie policy)."
+    }
+   ]
+  },
+  {
+   "title": "3. Finalità del Trattamento",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "I dati dell’utente sono raccolti, utilizzati ed archiviati da TRIVELLAZIONI ITALIA esclusivamente per finalità direttamente connesse e strumentali all’uso del Sito (ad esempio in relazione alle richieste inviate da parte dell’utente) e dei suoi servizi, per consentire a TRIVELLAZIONI ITALIA di migliorare il proprio Sito, nonché per l’adempimento degli obblighi previsti dalla legge, da un regolamento o dalla normativa comunitaria e per l’esercizio dei propri diritti in sede giudiziaria. TRIVELLAZIONI ITALIA garantisce in ogni caso il massimo livello di sicurezza nella gestione dei dati medesimi;Il trattamento verrà effettuato attraverso strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate. Oltre al Titolare, in alcuni casi, potrebbero avere accesso ai dati altri soggetti coinvolti nell’organizzazione del Sito www.trivellazionitalia.it (personale amministrativo, commerciale, marketing, legali, amministratori di sistema) ovvero soggetti esterni (fornitori di servizi tecnici terzi, hosting provider, società informatiche, agenzie di comunicazione) nominati anche, se necessario, Responsabili del Trattamento da parte del Titolare. L’elenco aggiornato dei Responsabili potrà sempre essere richiesto al Titolare del Trattamento."
+    },
+    {
+     "type": "p",
+     "text": "Si precisa, in particolare, che la raccolta, utilizzazione ed archiviazione dei dati ha le seguenti finalità:"
+    },
+    {
+     "type": "li",
+     "text": "consentire l’utilizzo del Sito e dei suoi servizi;"
+    },
+    {
+     "type": "li",
+     "text": "consentire l’interazione con il Sito;"
+    },
+    {
+     "type": "li",
+     "text": "consentire l’esecuzione delle richieste dei servizi resi da TRIVELLAZIONI ITALIA (anche, ad esempio, in relazione ad eventuali recapiti e/o altre informazioni fornite a tal fine dall’utente);"
+    },
+    {
+     "type": "li",
+     "text": "fornire assistenza agli utenti (sia relativamente ai servizi resi quanto per ogni aggiornamento o avviso, anche di sicurezza, relativo al sito);"
+    },
+    {
+     "type": "li",
+     "text": "migliorare e ottimizzare le funzionalità del Sito, anche attraverso l’analisi statistica dei dati raccolti;"
+    },
+    {
+     "type": "li",
+     "text": "gestire i programmi, i servizi e le attività, anche promozionali, rese;"
+    },
+    {
+     "type": "li",
+     "text": "ragioni di sicurezza e per prevenire e valutare i rischi connessi al Sito;"
+    },
+    {
+     "type": "li",
+     "text": "per la valutazione e soluzione di eventuali problemi di sicurezza;"
+    },
+    {
+     "type": "li",
+     "text": "per la soluzione di controversie con gli utenti o nei confronti di terze parti;"
+    },
+    {
+     "type": "li",
+     "text": "garantire il rispetto e l’applicazione della policy adottata dal sito;"
+    },
+    {
+     "type": "li",
+     "text": "consentire eventualmente, previo consenso, l’invio di comunicazioni relative e/o connesse ai servizi resi tramite il Sito;"
+    },
+    {
+     "type": "li",
+     "text": "migliorare i servizi pubblicitari, eventualmente mediante sistemi di profilazione;"
+    },
+    {
+     "type": "li",
+     "text": "assolvere agli obblighi di legge."
+    }
+   ]
+  },
+  {
+   "title": "4. Form Contatti",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Il Sito www.trivellazionitalia.it consente agli utenti interessati di richiedere informazioni sui servizi resi attraverso il sito mediante la compilazione del relativo Form. Tali dati saranno trattati, anche attraverso l’utilizzo di strumenti informatici, dai soggetti delegati e/o incaricati da TRIVELLAZIONI ITALIA, esclusivamente per rispondere alla richiesta dell’utente. I dati personali introdotti nel Form sono funzionali all’esecuzione di quanto richiesto e vengono utilizzati da TRIVELLAZIONI ITALIA. L’utente potrà in ogni momento richiedere la cancellazione dei dati così forniti, inviando richiesta all’indirizzo info@trivellazionitalia.it."
+    }
+   ]
+  },
+  {
+   "title": "5. Comunicazione dei dati dell’utente",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "TRIVELLAZIONI ITALIA fa presente agli utenti che con l’inserimento dei propri dati nel Form presente sul Sito potranno accettare, mediante apposita spunta, di ricevere all’indirizzo e-mail ovvero agli altri recapiti di riferimento quale il numero di cellulare tramite WhatsApp, comunicazioni, anche commerciali (purché si tratti di servizi analoghi a quelli oggetto della vendita e l’interessato, adeguatamente informato, non rifiuti tale uso ex art. 130 co. 4), relative e/o connesse ai servizi resi tramite il Sito. L’utente potrà negare la predetta autorizzazione, successivamente, mediante richiesta di cancellazione da inviare all’indirizzo info@trivellazionitalia.it."
+    },
+    {
+     "type": "p",
+     "text": "Si fa inoltre presente che:"
+    },
+    {
+     "type": "li",
+     "text": "TRIVELLAZIONI ITALIA potrà inoltre comunicare i dati personali dell’utente strettamente necessari (ad esempio, dati di recapito o e-mail) per la prestazione dei servizi collegati e/o connessi ai soggetti che si occupano, ad esempio, di renderle servizi. In particolare i dati potranno essere comunicati e/o resi accessibili a: (i) persone, società o studi professionali, che prestino attività di assistenza, consulenza o collaborazione a TRIVELLAZIONI ITALIA in materia contabile, amministrativa tributaria, finanziaria e tecnico-informatica; (ii) soggetti delegati e/o incaricati da TRIVELLAZIONI ITALIA all’esecuzione delle attività o di parte delle attività connesse ai servizi offerti, quali, ad esempio, il servizio di assistenza agli utenti; (iii) ogni altro collaboratore esterno cui la comunicazione sia necessaria per il corretto adempimento delle obbligazioni assunte da TRIVELLAZIONI ITALIA con l’utente. TRIVELLAZIONI ITALIA potrebbe altresì comunicare i dati dell’utente, tra cui i dati personali, all’Autorità Giudiziaria, all’Autorità Governativa e ad ogni Autorità Pubblica in generale ovvero a terze parti autorizzate qualora la comunicazione si renda necessaria o nel caso in cui sia a ciò tenuto o autorizzato a farlo per legge (ad esempio nell’ambito di un procedimento legale; di indagini penali; per tutelare i diritti di TRIVELLAZIONI ITALIA e/o dell’utente medesimo o degli altri utenti)."
+    }
+   ]
+  },
+  {
+   "title": "6. Consenso al trattamento dei dati per finalità di marketing",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Spuntando la casella “Consenso per finalità di Marketing” l’utente dichiara di essere maggiorenne ed autorizza il Titolare/Responsabile del trattamento dei dati del Sito www.trivellazionitalia.it a trattare i suoi dati per finalità di marketing (a titolo esemplificativo e non esaustivo: invio di materiale pubblicitario, inserzioni e/o comunicazioni commerciali), potrà essere contattato ai recapiti forniti (e-mail, telefono tramite WhatsApp) per l’acquisto di prodotti e/o servizi, per comunicazioni e/o proposte commerciali."
+    }
+   ]
+  },
+  {
+   "title": "7. Dati particolari o giudiziari",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "TRIVELLAZIONI ITALIA non raccoglie deliberatamente dati particolari (ossia dati idonei a rivelare l’origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l’adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati idonei a rivelare lo stato di salute e la vita sessuale) né giudiziari, invitandosi pertanto l’utente a non fornire tale tipologia di dati tramite il Sito."
+    }
+   ]
+  },
+  {
+   "title": "8. Misure di sicurezza",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "TRIVELLAZIONI ITALIA dichiara di aver adottato misure di sicurezza volte a ridurre al minimo i rischi di distruzione o di perdita, anche accidentale, dei dati raccolti, di accesso non autorizzato o di trattamento non consentito o non conforme alle finalità di raccolta indicate nella presente Privacy Policy.Tuttavia TRIVELLAZIONI ITALIA non può garantire ai propri utenti che le misure adottate per la sicurezza del Sito e della trasmissione dei dati e delle informazioni su www.trivellazionitalia.it escludano qualsiasi rischio di accesso non consentito o di dispersione dei dati. Si invita pertanto l’utente ad assicurarsi che il proprio computer o dispositivo mobile utilizzato per accedere al suddetto Sito sia dotato di dispositivi software adeguati per la protezione della trasmissione in rete di dati, sia in entrata sia in uscita (come sistemi antivirus aggiornati), e che il fornitore di servizi internet adoperato dall’utente abbia adottato misure idonee per la sicurezza della trasmissione di dati in rete (come ad esempio firewalls e filtri antispamming)."
+    }
+   ]
+  },
+  {
+   "title": "9. Conservazione ed eventuale modifica dei dati personali",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Il trattamento dei dati personali raccolti avrà una durata non superiore a quella necessaria alle finalità per le quali i dati sono stati raccolti, in ottemperanza agli obblighi di natura civilistica, fiscale e tributaria vigenti.Per garantire che i dati personali forniti siano sempre esatti ed aggiornati, comunque pertinenti e completi, TRIVELLAZIONI ITALIA invita l’utente a segnalare ogni modifica intervenuta al seguente indirizzo di posta elettronica info@trivellazionitalia.it o, comunque, secondo le modalità meglio precisate nell’articolo che segue."
+    }
+   ]
+  },
+  {
+   "title": "10. Diritti dell’utente",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "L’utente ha il diritto di aggiornare o modificare i propri dati in ogni momento. L’utente è l’unico responsabile dei dati forniti nonché di ogni modifica e/o integrazione dei medesimi. In ogni caso TRIVELLAZIONI ITALIA si riserva il diritto di verificare l’identità dell’utente e la veridicità dei dati forniti per tutelare i propri diritti e/o quelli degli altri utenti.Spettano altresì all’utente i seguenti diritti garantiti da TRIVELLAZIONI ITALIA:"
+    },
+    {
+     "type": "li",
+     "text": "l’utente può chiedere la correzione di dati personali che risultino imprecisi o incompleti e cui non ha accesso diretto;"
+    },
+    {
+     "type": "li",
+     "text": "l’utente potrà altresì chiedere di eliminare le informazioni personali in possesso di TRIVELLAZIONI ITALIA. In tal caso resta inteso che TRIVELLAZIONI ITALIA potrà conservare per il tempo strettamente necessario alcuni dati in funzione di esigenze legate, ad esempio, a: (i) assolvere eventuali obblighi di legge (in relazione, ad esempio, a procedimenti giudiziari e/o indagini legali ovvero in relazione ad obblighi di natura fiscale); (ii) garantire e promuovere la sicurezza del sito; (iii) l’utilizzo di programmi volti a garantire la sicurezza del sito e che potrebbero determinare la conservazione, per un periodo di tempo limitato, dei dati medesimi;– l’utente potrà inoltre richiedere copia dei dati in possesso di TRIVELLAZIONI ITALIA in formato digitale e/o richiedere la trasmissione di tali informazioni ad un altro fornitore di servizi;– l’utente che abbia prestato il consenso al trattamento dei propri dati personali, potrà in qualsiasi momento procedere alla relativa revoca inviando una comunicazione all’indirizzo di posta elettronica info@trivellazionitalia.it nella quale sia specificamente indicato ogni singolo consenso oggetto di revoca. Resta in ogni caso ferma la legittimità del trattamento dei dati effettuato da TRIVELLAZIONI ITALIA anteriormente alla revoca;"
+    },
+    {
+     "type": "li",
+     "text": "l’utente potrà altresì opporsi al trattamento dei propri dati personali da parte di TRIVELLAZIONI ITALIA per determinate finalità (ad esempio, per la profilazione) qualora tale trattamento sia basato su un legittimo interesse. In tal caso i dati personali dell’utente non saranno più trattati da TRIVELLAZIONI ITALIA per le predette finalità indicate, salva la sussistenza di motivi legittimi per procedere al trattamento oppure se tale trattamento si renda necessario per l’accertamento, l’esercizio o la difesa di un diritto in sede giudiziaria;– è riconosciuto all’utente il diritto di limitare le modalità di utilizzo dei propri dati personali da parte di TRIVELLAZIONI ITALIA nel caso di: (i) contestazione sull’esattezza dei dati; (ii) opposizione alla cancellazione dei dati in quanto si ritiene che il relativo trattamento non sia stato eseguito in modo legittimo; (iii) in caso di opposizione al trattamento; (iv) qualora l’utente richieda a TRIVELLAZIONI ITALIA informazioni ai fini dell’accertamento dei propri diritti e/o per la relativa tutela in sede giudiziaria;– come già precisato, l’utente potrà altresì chiedere a TRIVELLAZIONI ITALIA di cessare il trattamento dei propri dati per finalità commerciali, inviando una comunicazione all’indirizzo di posta elettronica www.trivellazionitalia.it;– l’utente potrà infine presentare reclami afferenti l’attività di trattamento dei dati svolta da TRIVELLAZIONI ITALIA a presso l’autorità per la protezione dei dati territorialmente competente."
+    }
+   ]
+  },
+  {
+   "title": "11. Modifiche e aggiornamenti della presente Privacy Policy",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "TRIVELLAZIONI ITALIA potrà modificare e/o aggiornare, in tutto o in parte, la presente Privacy Policy anche in considerazione dell’eventuale modifica delle norme di legge o di regolamento che disciplinano questa materia e proteggono i diritti degli utenti. Le eventuali modifiche e/o aggiornamenti saranno notificati agli utenti nella home page di www.trivellazionitalia.it non appena adottati e saranno vincolanti non appena pubblicati sul Sito in questa stessa sezione. Si invita pertanto l’utente ad accedere con regolarità alla presente sezione per verificare la pubblicazione della più recente ed aggiornata Privacy Policy di www.trivellazionitalia.it."
+    }
+   ]
+  },
+  {
+   "title": "12. Servizio “App di messaggistica: WhatsApp”",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "L’utente che intende utilizzare il servizio “App di messaggistica: WhatsApp” presente sul sito, cliccando sul tasto di collegamento all’App Whatsapp, invia un messaggio al titolare, con lo scopo di richiedere ad esempio informazioni sul servizio reso. Inviando tale messaggio, l’utente conferisce a TRIVELLAZIONI ITALIA l’autorizzazione ad acquisire il suo numero di telefono; i numeri di telefono così raccolti potranno essere utilizzati dal titolare del sito per inviare al cliente/utente, messaggi promozionali sui servizi resi."
+    }
+   ]
+  },
+  {
+   "title": "13. Cookie",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Il Sito utilizza i cosiddetti cookie al fine di riconoscere il dispositivo adoperato dall’utente e per fornire maggiori funzionalità al sito medesimo. Per maggiori informazioni sui cookie e su come il sito www.trivellazionitalia.it li utilizza, consulta la pagina Politica sui cookie presente sul Sito."
+    }
+   ]
+  }
+ ]
+}

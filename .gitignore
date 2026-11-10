@@ -1,0 +1,22 @@
+# Dipendenze e build
+node_modules/
+.next/
+out/
+build/
+coverage/
+.open-next/
+.wrangler/
+
+# Ambiente e segreti
+.env
+.env*.local
+*.pem
+
+# Strumenti locali
+.claude/
+.vercel/
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+next-env.d.ts

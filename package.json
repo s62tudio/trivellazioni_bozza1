@@ -1,0 +1,11 @@
+{
+  "name": "trivellazioni-italia",
+  "private": true,
+  "description": "Avvia il sito che si trova nella cartella site/",
+  "scripts": {
+    "dev": "npm --prefix site run dev",
+    "build": "npm --prefix site run build",
+    "start": "npm --prefix site run start",
+    "lint": "npm --prefix site run lint"
+  }
+}
